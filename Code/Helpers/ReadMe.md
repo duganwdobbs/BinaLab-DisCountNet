@@ -9,7 +9,7 @@ In this directory, you will find four files:
                 pulls the testing / training split from saved files in the Data
                 directory.
 
-- ops.py: This directory ~generally~ contains wrapped TensorFlow operations.
+- ops.py: This directory generally contains wrapped TensorFlow operations.
           They translate lower level code to more default arguments and neater
           calls.
 
