@@ -12,7 +12,7 @@ This is the main code for our experiment for counting cows, DisCountNet. Interna
 - discnet.py
   This file defines the discriminator network as a class for ease of use.
 - segnet.py
-  This file defiens the segmentation network as a class for ease of use.
+  This file defines the segmentation network as a class for ease of use.
 
 - Img_Visualization.py
   This script is used to parse an image into patches and display some sparsity statistics about it.
